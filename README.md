@@ -1,5 +1,5 @@
 # Comp-Architecture.
-Assignment#3
+Assignment#4
 MIPS Simulator: Pipelining II – Forwarding Paths
 Project 4 – CS 3339
 PROBLEM STATEMENT
